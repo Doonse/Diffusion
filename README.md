@@ -19,7 +19,7 @@ Below are some animated `.gif` examples of different diffusion runs:
 
 
 
-
+# Diffusion with Conservation
 ## Run 1 (No Velocity with Conservation)
 
 **(GCN)**  
@@ -58,3 +58,5 @@ Below are some animated `.gif` examples of different diffusion runs:
 <img src="GAT_prediction_alpha_1_no_vel_2.gif" width="400" />
 
 
+
+# Diffusion with Conservation and Velocity
