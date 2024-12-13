@@ -7,6 +7,7 @@ Below can be found the structure of the repository.
 - [Diffusion without Conservation](https://github.com/Doonse/Diffusion/tree/main/no_conservation)
   
 - [Diffusion with Conservation](https://github.com/Doonse/Diffusion/tree/main/with_conservation)
+  
   - [No Advection/Velocity](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Stationary_Diffusion)
     - [Run 1 (No Velocity)](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Stationary_Diffusion/Run1)
       - [GCN]([#gcn](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Stationary_Diffusion/Run1))
@@ -15,7 +16,6 @@ Below can be found the structure of the repository.
       - [GCN]([#gcn-1](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Stationary_Diffusion/Run2))
       - [GAT]([#gat-1](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Stationary_Diffusion/Run2))
         
-- [Diffusion with Conservation and Velocity](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection)
   - [Run 1 (With Velocity)](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection/Run1)
     - [GCN]([#gcn-2](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection/Run1))
     - [GAT]([#gat-2](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection/Run1))
