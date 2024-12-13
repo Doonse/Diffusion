@@ -2,11 +2,10 @@
 
 This repository showcases the results of simulating diffusion on a line graph using GNNs.
 
-Below are some animated `.gif` examples of different diffusion runs:
-
+Below can be found the structure of the repository.
 
 **Table of Contents**  
-- [Diffusion without Conservation](#diffusion-without-conservation)
+- [Diffusion without Conservation](https://github.com/Doonse/Diffusion)
   - [Three random GAT simulations](#three-random-gat-simulations)
   - [Three random GCN simulations](#three-random-gcn-simulations)
 - [Diffusion with Conservation](#diffusion-with-conservation)
