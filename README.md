@@ -23,3 +23,9 @@ Below can be found the structure of the repository.
     - [Run 2 (With Velocity)](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection/Run2)
       - [GCN]([#gcn-3](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection/Run2))
       - [GAT]([#gat-3](https://github.com/Doonse/Diffusion/tree/main/with_conservation/Diffusion_with_Advection/Run2))
+
+
+## Project Report
+
+You can read the full report here:  
+[📄 View PDF Report](./GraphNeuralNetworks_And_Physics.pdf)
